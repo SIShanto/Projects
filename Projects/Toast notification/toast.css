@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;    
+    min-height: 100vh;
+}
+button
+{
+    background-color: rebeccapurple;
+    color: white;
+    padding: .5rem;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+#cont
+{
+    position: fixed;
+    bottom: 230px;
+   
+}
+.toast
+{
+    background-color: rgb(52, 148, 23);
+    border-radius: 5px;
+    color: white;
+    padding: 2rem;
+    margin:1rem;
+}

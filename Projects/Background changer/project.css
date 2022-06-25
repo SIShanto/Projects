@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;    
+    min-height: 100vh;
+}
+
+button
+{
+   background-color: rebeccapurple; 
+   border: none;
+   color:white;
+   border-radius: 5px;
+   padding: 1rem;
+   cursor: pointer;
+   box-shadow: 5px 5px 6px rgba(0,0,0,.5);
+}
+
+button:focus {
+    outline: none;
+}
+button:active{
+    box-shadow: 0;
+    transform: translate(3px,3px);
+}
