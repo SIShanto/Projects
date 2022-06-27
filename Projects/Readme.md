@@ -1,6 +1,6 @@
 ## Coding challenge
 
-## 10 JavaScript Projects in 1 hour
+## 11 JavaScript Projects
 
 1. Hamburger Button
 
