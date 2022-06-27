@@ -74,3 +74,8 @@
  - images
  - track mouse movement
  - set transform origin on hover
+ 
+ 11. Shying Monkey
+ - using emojis
+ - adding some css
+ - using logic of if else statement in js
